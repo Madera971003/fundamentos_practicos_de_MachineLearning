@@ -2,7 +2,7 @@
 
 En este repositorio se encuentran algunos archivos de práctica de fundamentos de Machine Learning. Algunas de las librerías usadas son: Seaborn, Motplotlib, Numpy, Pandas, Sklearn, Keras, TensorFlow etc.
 
-Para poder ejecutar los Notebooks es necesario tener las librerías adecuadas. Para ello es necesario ejecutar el siguiente comando en [Cmder](https://cmder.net/) estando ubicado en la carpeta de estos archivos; esto porque se va a tomar todos los requerimientos del archivo requirements.txt. Cabe mencionar que esto se hará una vez creado el entorno virtual (si no sabe cómo hacerlo dar clic aquí).
+Para poder ejecutar los Notebooks es necesario tener las librerías adecuadas. Para ello es necesario ejecutar el siguiente comando en [Cmder](https://cmder.net/) estando ubicado en la carpeta de estos archivos; esto porque se va a tomar todos los requerimientos del archivo requirements.txt. Cabe mencionar que esto se hará una vez creado el entorno virtual (si no sabe cómo hacerlo dar clic [aquí](https://github.com/Madera971003/como_crear_entorno_virtual)).
 
 ```Bash
 pip install -r requirements.txt
